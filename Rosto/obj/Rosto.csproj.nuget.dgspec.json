@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\ITI\\.NET\\C# Project\\Rosto\\Rosto\\Rosto.csproj": {}
+  },
+  "projects": {
+    "D:\\ITI\\.NET\\C# Project\\Rosto\\Rosto\\Rosto.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\ITI\\.NET\\C# Project\\Rosto\\Rosto\\Rosto.csproj",
+        "projectName": "Rosto",
+        "projectPath": "D:\\ITI\\.NET\\C# Project\\Rosto\\Rosto\\Rosto.csproj",
+        "packagesPath": "C:\\Users\\Spees\\.nuget\\packages\\",
+        "outputPath": "D:\\ITI\\.NET\\C# Project\\Rosto\\Rosto\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Spees\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.3, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win7-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

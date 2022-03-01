@@ -1,0 +1,10 @@
+D:\ITI\.NET\C# Project\Rosto\Rosto\bin\Debug\net472\Rosto.exe.config
+D:\ITI\.NET\C# Project\Rosto\Rosto\bin\Debug\net472\Rosto.exe
+D:\ITI\.NET\C# Project\Rosto\Rosto\bin\Debug\net472\Rosto.pdb
+D:\ITI\.NET\C# Project\Rosto\Rosto\bin\Debug\net472\System.Data.SqlClient.dll
+D:\ITI\.NET\C# Project\Rosto\Rosto\obj\Debug\net472\Rosto.csproj.CoreCompileInputs.cache
+D:\ITI\.NET\C# Project\Rosto\Rosto\obj\Debug\net472\Rosto.AssemblyInfoInputs.cache
+D:\ITI\.NET\C# Project\Rosto\Rosto\obj\Debug\net472\Rosto.AssemblyInfo.cs
+D:\ITI\.NET\C# Project\Rosto\Rosto\obj\Debug\net472\Rosto.csproj.CopyComplete
+D:\ITI\.NET\C# Project\Rosto\Rosto\obj\Debug\net472\Rosto.exe
+D:\ITI\.NET\C# Project\Rosto\Rosto\obj\Debug\net472\Rosto.pdb
